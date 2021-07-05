@@ -1,12 +1,13 @@
 <p align="center"> 
- <img src="https://badges.pufler.dev/updated/milaan9/05_Python_Files" alt="milaan9"/>  
- <img src="https://badges.pufler.dev/created/milaan9/05_Python_Files" alt="milaan9"/>  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F05_Python_Files&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://img.shields.io/github/last-commit/milaan9/05_Python_Files.svg?colorB=orange&style=flat" alt="Last Commit"/> </a> 
+<a href="https://github.com/milaan9/05_Python_Files/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/05_Python_Files.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F05_Python_Files&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/milaan9/05_Python_Files/stargazers"><img src="https://img.shields.io/github/stars/milaan9/05_Python_Files" alt="Stars Badge"/></a>
 <a href="https://github.com/milaan9/05_Python_Files/network/members"><img src="https://img.shields.io/github/forks/milaan9/05_Python_Files" alt="Forks Badge"/> </a>
-<a href="https://github.com/milaan9/05_Python_Files/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/05_Python_Files" /></a> 
-<a href="https://github.com/milaan9/05_Python_Files/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/05_Python_Files" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/milaan9/05_Python_Files/issues"><img src="https://img.shields.io/github/issues/milaan9/05_Python_Files" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/repo-size/milaan9/05_Python_Files.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<a href="https://github.com/milaan9/05_Python_Files/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/05_Python_Files.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/05_Python_Files/issues"><img src="https://img.shields.io/github/issues/milaan9/04_Python_Functions.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/languages/top/milaan9/05_Python_Files.svg?colorB=EA4335&style=flat" alt="Language"/> </a> 
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
