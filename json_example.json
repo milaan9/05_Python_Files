@@ -1,0 +1,10 @@
+{
+    "name": "Milaan",
+    "country": "England",
+    "city": "London",
+    "skills": [
+        "Python",
+        "MATLAB",
+        "R"
+    ]
+}
